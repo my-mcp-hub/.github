@@ -1,16 +1,14 @@
 # Welcome to the MCP Hub
 
-MCP Hub is a technology-driven organization dedicated to building high-quality, scalable, and developer-friendly open-source tools and solutions.
+MCP Hub is a technology-driven organization dedicated to sharing projects and examples built around the ModelContextProtocol (MCP), including mcp-server, mcp-client, and mcp-host implementations.
 
 Our mission is to:
-
-- Empower developers through well-crafted software.
-- Promote best practices in code quality, testing, and documentation.
-- Encourage collaboration, learning, and innovation within the community.
+- Empower developers through well-crafted, protocol-oriented tools and examples
+- Promote best practices in distributed agent design, testing, and documentation
+- Encourage collaboration, learning, and innovation in the intelligent agent ecosystem
 
 We focus on:
-
-- Modern JavaScript/TypeScript libraries
+- Modern JavaScript/TypeScript libraries and implementations
 - Developer tooling and automation
 - Frontend frameworks and components
 - Backend architecture and API design
@@ -28,4 +26,4 @@ We're always looking for passionate contributors and collaborators.
 
 Please feel free to [Apply Here](https://github.com/my-mcp-hub/.github/issues/new?template=invitation.yml) or open an issue in this repository to introduce yourself.
 
-Let’s build great things together!
+Let's build great things together!
